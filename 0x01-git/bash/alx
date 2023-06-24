@@ -9,3 +9,5 @@ root@5cda0250bb05:/alx-pre_course/0x01-git/bash# cat > school
 echo "ALX" 
 #!/bin/bash
 echo "ALX" 
+#/bin/bash
+echo "alx" 
