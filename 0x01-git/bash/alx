@@ -1,19 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #!/bin/bash
-echo "ALX"
-^c
-^C
-^ c
-cleare
-root@5cda0250bb05:/alx-pre_course/0x01-git/bash# cat > school
-#!/bin/bash
-echo "ALX" 
-#!/bin/bash
-echo "ALX" 
-#/bin/bash
-echo "alx" 
-#!/bin/bash
-echo "ALX" 
-#/bin/bash
-echo "ALX"
-#/bin/bash
 echo "ALX"
